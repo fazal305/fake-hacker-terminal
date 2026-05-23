@@ -30,7 +30,7 @@ Add screenshots here later.
 ## How To Run
 
 1. Download the project
-2. Open `hacker-terminal.html`
+2. Open `index.html`
 3. Enjoy the fake hacking chaos
 
 ## Future Ideas
