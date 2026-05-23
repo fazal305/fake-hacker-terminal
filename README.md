@@ -1,0 +1,46 @@
+# Fake Hacker Terminal
+
+A cinematic fake hacker terminal built with HTML, CSS, and Vanilla JavaScript.
+
+Features:
+- Typewriter terminal effect
+- Fake hacker commands
+- Animated blinking cursor
+- CRT scan-line effect
+- Fake progress bars
+- Glitch effects
+- Sound effects
+- Infinite looping terminal simulation
+- Mobile responsive UI
+
+## Tech Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## Live Demo
+
+Add your GitHub Pages link here later.
+
+## Screenshots
+
+Add screenshots here later.
+
+## How To Run
+
+1. Download the project
+2. Open `hacker-terminal.html`
+3. Enjoy the fake hacking chaos
+
+## Future Ideas
+
+- Matrix rain background
+- Fake boot sequence
+- Webcam permission prank
+- Live network stats
+- Multiple terminal themes
+
+## Author
+
+Fazal Abbas
