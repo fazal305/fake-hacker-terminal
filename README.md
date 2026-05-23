@@ -21,7 +21,7 @@ Features:
 
 ## Live Demo
 
-Add your GitHub Pages link here later.
+https://fazal305.github.io/fake-hacker-terminal/
 
 ## Screenshots
 
