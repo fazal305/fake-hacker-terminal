@@ -25,7 +25,8 @@ Add your GitHub Pages link here later.
 
 ## Screenshots
 
-Add screenshots here later.
+<img width="1131" height="850" alt="image" src="https://github.com/user-attachments/assets/1d5c374f-3a20-48f0-94bf-09d5e15591d8" />
+
 
 ## How To Run
 
